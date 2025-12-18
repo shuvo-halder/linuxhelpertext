@@ -35,6 +35,6 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-Created by **Your Name**
+Created by **Shuvo Halder**
 📧 Email: [shuvo@acquirespot.xyz](mailto:shuvo@acquirespot.xyz)
 
